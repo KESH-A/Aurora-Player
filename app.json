@@ -1,4 +1,26 @@
 {
-  "name": "OfflineMusicPlayer",
-  "displayName": "Offline Music Player"
+  "expo": {
+    "name": "Aurora Player",
+    "slug": "aurora-player",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#121212"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.kesha.auroraplayer",
+      "adaptiveIcon": {
+        "backgroundColor": "#121212"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
 }
