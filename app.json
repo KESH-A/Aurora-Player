@@ -6,15 +6,12 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
-    "splash": {
-      "resizeMode": "contain",
-      "backgroundColor": "#121212"
+    "android": {
+      "package": "com.kesha.auroraplayer",
+      "versionCode": 1
     },
     "ios": {
       "supportsTablet": true
-    },
-    "android": {
-      "package": "com.kesha.auroraplayer"
     },
     "extra": {
       "eas": {
