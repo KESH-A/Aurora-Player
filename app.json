@@ -2,6 +2,7 @@
   "expo": {
     "name": "Aurora Player",
     "slug": "aurora-player",
+    "owner": "lovezis-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
